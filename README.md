@@ -8,7 +8,7 @@ Object Detection for Keypoints (ROI) such as K, K, and C using YOLOv4 Deep Learn
 
 Annotation Type - Bounding Boxes
 
-Classes&nbsp;&nbsp;&nbsp;&nbsp; - K and C
+Classes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - K and C
 
 ## Methodology
 
