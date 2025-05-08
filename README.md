@@ -5,11 +5,10 @@ Object Detection for Keypoints (ROI) such as K, K, and C using YOLOv4 Deep Learn
 ## Dataset
 
 - Marker Pens (Custom)
-<pre>
+
 Annotation Type - Bounding Boxes
 
-Classes         - K and C
-</pre>
+Classes&nbsp;&nbsp;&nbsp;&nbsp; - K and C
 
 ## Methodology
 
